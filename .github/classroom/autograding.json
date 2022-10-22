@@ -1,7 +1,7 @@
 {
   "tests": [
     {
-      "name": "String Tests",
+      "name": "Test",
       "setup": "",
       "run": "DOTNET_CLI_HOME=/tmp/ dotnet test",
       "input": "",
